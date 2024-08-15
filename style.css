@@ -1,0 +1,223 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://phalarope-static-storage.s3.sa-east-1.amazonaws.com/dg/Img/2/45/1c48e7e09442d2d6b41d5b721e72bf23.gif');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.nomecentral{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.nomescentrais {
+    text-align: center; 
+    margin-top: 20px; 
+  }
+  
+.nomescentrais a {
+    font-family: 'VT323';
+    font-style: normal;
+    font-weight: 400;
+    display: inline-block; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    color: #929294; 
+    font-size: 18px; 
+    font-weight: bold; 
+    border: 2px solid #8908d4; 
+    border-radius: 5px; 
+    margin: 0 10px; 
+    transition: background-color 0.3s, color 0.3s; 
+  }
+  
+.nomescentrais a:hover {
+    background-color: #333; 
+    color: #fff; 
+  }
+
+
+.sessao1nomes {
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    background-color: #01010286; 
+    border-radius: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    font-weight: bold;
+}
+
+.nomesobre {
+    font-family: "Bungee Inline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #aeb0b3; 
+    font-size: 2.5rem; 
+    margin-bottom: 20px; 
+
+}
+
+.sessao1nomes p {
+    font-size: 1.2rem; 
+    line-height: 1.6; 
+    color: #555; 
+    background-color: #f8f9fab6; 
+    padding: 60px 0; 
+    text-align: center; 
+    border-radius: 30px;
+}
+
+.conteudos1{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    background-color: #01010286; 
+    border-radius: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    font-weight: bold;
+    
+}
+
+.conteudos1 p {
+    font-size: 1.2rem; 
+    line-height: 1.6; 
+    color: #555; 
+    background-color: #f8f9fab6; 
+    padding: 60px 0; 
+    text-align: center; 
+    border-radius: 30px;
+
+}
+
+.nomeformaçao{
+    font-family: "Bungee Inline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #aeb0b3; 
+    font-size: 2.5rem; 
+    margin-bottom: 20px; 
+}
+.nomecurso{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inicio{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+.nomeProjetos{
+    font-family: "Bungee Inline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #aeb0b3; 
+    font-size: 2.5rem; 
+    margin-bottom: 20px; 
+}
+
+.projeto1{
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    color: #f8e801; 
+    font-size: 20px; 
+    font-weight: bold; 
+    border: 2px solid #8908d4; 
+    border-radius: 5px; 
+    margin: 0 10px; 
+    transition: background-color 0.3s, color 0.3s; 
+}
+.projeto2{
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    color: #f8e801; 
+    font-size: 20px; 
+    font-weight: bold; 
+    border: 2px solid #8908d4; 
+    border-radius: 5px; 
+    margin: 0 10px; 
+    transition: background-color 0.3s, color 0.3s; 
+}
+.projeto3{
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    color: #f8e801; 
+    font-size: 20px; 
+    font-weight: bold; 
+    border: 2px solid #8908d4; 
+    border-radius: 5px; 
+    margin: 0 10px; 
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+.sessao3nomes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clique1{
+    text-decoration: none;
+    font-family: "Rubik Glitch Pop", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #f3f3f3;
+}
+.clique2{
+    text-decoration: none;
+    font-family: "Rubik Glitch Pop", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #f3f3f3;
+}
+.clique3{
+    text-decoration: none;
+    font-family: "Rubik Glitch Pop", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #f3f3f3;
+}
